@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800.68 421.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5e5e5e;
+        stroke: #bcbcbc;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        fill: #4943c9;
+        stroke: #7c7cf2;
+      }
+
+      .cls-2, .cls-5, .cls-6 {
+        stroke-width: 7px;
+      }
+
+      .cls-3 {
+        fill: #383838;
+        stroke: #848484;
+      }
+
+      .cls-4 {
+        stroke: #5e5e5e;
+      }
+
+      .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #948fff;
+      }
+
+      .cls-5, .cls-7 {
+        fill: #6c5ce7;
+      }
+
+      .cls-6 {
+        stroke: #6c5ce7;
+      }
+
+      .cls-8 {
+        font-size: 135.17px;
+      }
+
+      .cls-8, .cls-7, .cls-9 {
+        font-family: RalewayRoman-Bold, Raleway;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-9 {
+        font-size: 233.73px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <text class="cls-8" transform="translate(580.88 166.98)"><tspan x="0" y="0">Your</tspan></text>
+    <text class="cls-7" transform="translate(590.12 354.27)"><tspan x="0" y="0">link</tspan></text>
+    <text class="cls-9" transform="translate(1005.71 354.42)"><tspan x="0" y="0">builder</tspan></text>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <path class="cls-6" d="m22.96,210.48c19.96-13.17,51.62-32.68,92.77-52.1,51.76-24.42,62-22.01,108.23-43.65,84.18-39.4,104.21-72.65,125.1-61.95,29.64,15.18,27,101.42,0,112.64-28.63,11.9-75.7-64.31-98.39-52.1-22.83,12.29,11.92,96.42-12.65,111.23-26.93,16.24-89.08-72.55-123.7-54.91-21.82,11.12-27.08,61.65-11.25,97.15,4.96,11.13,11.42,19.49,16.87,25.34"/>
+    <path class="cls-4" d="m125.57,266.8c5.8-19.38,50.38-10.21,101.21-25.34,68.11-20.28,64.65-59.57,118.07-66.18,50.29-6.21,30.42-21.82,61.85-39.42,29.38-16.46,80.81-12.81,75.9-15.49-8.27-4.51-73.58,97.7-111.04,163.33-17.55,30.75-62.21,111.63-60.44,112.64,1.59.91,53.57-55.33,39.36-101.38-12.62-40.91-76.34-70.1-106.83-52.1-34.98,20.65-11,94.43-39.36,104.19-22.79,7.85-58.24-32.93-73.09-60.54-6.92-12.86-6.35-17.26-5.62-19.71Z"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <ellipse class="cls-5" cx="111.52" cy="151.34" rx="42.87" ry="40.13"/>
+    <ellipse class="cls-5" cx="241.54" cy="95.72" rx="42.87" ry="40.13"/>
+    <ellipse class="cls-5" cx="117.84" cy="274.54" rx="42.87" ry="40.13"/>
+    <ellipse class="cls-5" cx="25.07" cy="205.31" rx="21.57" ry="20.18"/>
+    <ellipse class="cls-5" cx="370.86" cy="43.63" rx="42.87" ry="40.13"/>
+    <ellipse class="cls-1" cx="482.25" cy="120.93" rx="21.57" ry="20.18"/>
+    <ellipse class="cls-1" cx="314.98" cy="396.57" rx="21.57" ry="20.18"/>
+    <ellipse class="cls-1" cx="247.16" cy="239.34" rx="38.35" ry="35.05"/>
+    <ellipse class="cls-1" cx="352.93" cy="171.29" rx="38.35" ry="35.05"/>
+    <ellipse class="cls-1" cx="361.36" cy="290.97" rx="38.35" ry="35.05"/>
+    <ellipse class="cls-1" cx="447.09" cy="190.96" rx="27.09" ry="25.15"/>
+    <ellipse class="cls-1" cx="188.47" cy="345.88" rx="27.09" ry="25.15"/>
+  </g>
+  <g id="Layer_3_copy" data-name="Layer 3 copy">
+    <ellipse class="cls-2" cx="111.59" cy="152.55" rx="29.28" ry="26.81"/>
+    <ellipse class="cls-2" cx="241.16" cy="95.69" rx="29.28" ry="26.81"/>
+    <ellipse class="cls-2" cx="117.32" cy="274.28" rx="29.28" ry="26.81"/>
+    <ellipse class="cls-2" cx="23.03" cy="205.5" rx="14.73" ry="13.48"/>
+    <ellipse class="cls-2" cx="370.25" cy="43.99" rx="29.28" ry="26.81"/>
+    <ellipse class="cls-3" cx="482.88" cy="122.38" rx="14.73" ry="13.48"/>
+    <ellipse class="cls-3" cx="313.81" cy="395.22" rx="14.73" ry="13.48"/>
+    <ellipse class="cls-3" cx="245" cy="239.5" rx="26.19" ry="23.42"/>
+    <ellipse class="cls-3" cx="352.39" cy="168.7" rx="26.19" ry="23.42"/>
+    <ellipse class="cls-3" cx="360.96" cy="290.89" rx="26.19" ry="23.42"/>
+    <ellipse class="cls-3" cx="447.62" cy="191.69" rx="18.5" ry="16.8"/>
+    <ellipse class="cls-3" cx="186.64" cy="350.1" rx="18.5" ry="16.8"/>
+  </g>
+</svg>
